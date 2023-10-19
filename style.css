@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    margin: 1.5%
+}
+header{
+    background-color: #AD8B85;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 2%;
+    border-radius: 50px;
+}
+.section_1, .section_2{
+    background-color: #D6C5C2;
+    margin-bottom: 5%;
+    padding: 3%;
+    border-radius: 50px;
+}
+.section_3{
+    background-color: #D6C5C2;
+    margin-bottom: 2%;
+    padding: 3%;
+    border-radius: 50px;
+}
+.principal{
+    background-color: beige;
+    border-radius: 50px;
+}
+footer{
+    background-color: #FFC599;
+    padding: 25px;
+    border-radius: 50px;
+}
